@@ -5,7 +5,7 @@ Conjoint analysis project estimating attribute importance and willingness-to-pay
 ## Highlights
 - Calculated attribute importance (seat location and ticket price drove most preference)
 - Converted utilities into WTP guidance and compared WTP vs current pricing
-- Produced actionable recommendations: “volume play” price decrease where value was negative, and strategic upsell where value exceeded price
+- Identified packages where WTP < current price (value deficit) for “volume play” price decreases, and packages where WTP > current price for strategic upsell.
 Identified packages where WTP < current price (value deficit) and recommended a “volume play” price decrease; identified packages where WTP > current price and recommended strategic upsell
 
 ## Visuals
