@@ -25,3 +25,5 @@ Identified packages where WTP < current price (value deficit) and recommended a 
 - `assets/` — visuals embedded above
 
 > Case handouts and raw datasets are excluded due to licensing restrictions.
+
+Note: Case handouts, raw survey data, and cost tables are excluded due to licensing restrictions. This repo contains only original analysis outputs and visuals.
