@@ -21,8 +21,8 @@ Identified packages where WTP < current price (value deficit) and recommended a 
 
 ## Repo Structure
 - `slides/` — submitted deck (PDF)
-- `analysis/` — pricing/WTP workbook (Excel)
 - `assets/` — visuals embedded above
+-The pricing workbook is not included because it contained licensed case tables and raw data. This repo includes the submitted slide deck and derived visuals only.
 
 > Case handouts and raw datasets are excluded due to licensing restrictions.
 
